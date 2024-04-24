@@ -2,7 +2,7 @@
 Pepper mit ChatGPT einbinden mithilfe des Mikrofons vom PC.
 
 ## Downloaden der Packages
-Schauen Sie in die zwei Verschiedenen Projekte und downloaden Sie die alle packages für die richtige Python Version.
+Schauen Sie in die zwei verschiedenen Projekte und downloaden Sie  alle packages für die richtige Python Version.
 Server ist in Version 2.7, Client in Version 3.9+
 
 ## Ersetzten bestimmter Zeilen
