@@ -10,3 +10,4 @@ Ersetzten Sie in beiden Projekte bestimmte Zeilen es sind immer nur Pfade außer
 
 ## Starten des Projekts
 Starten Sie zum Beispiel in der CMD das Projekt in der Python Version 2.7 .
+Zum starten brauch Sie nur das Server Projekt.
