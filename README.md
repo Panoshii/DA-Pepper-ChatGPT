@@ -1,5 +1,5 @@
 # DA-Pepper-ChatGPT
-Integrieren von ChatGPT bei Pepper mithilfe des Mikrofons des PCs.
+Pepper mit ChatGPT einbinden mithilfe des Mikrofons vom PC.
 
 ## Downloaden der Packages
 Schauen Sie in die zwei Verschiedenen Projekte und downloaden Sie die alle packages für die richtige Python Version.
